@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">פתקים ותזכורות</string>
+    <string name="search_hint">חיפוש פתקים ותזכורות…</string>
+    <string name="new_note">פתק חדש</string>
+    <string name="new_checklist">רשימת משימות</string>
+    <string name="filter_all">הכל</string>
+    <string name="filter_reminders">תזכורות</string>
+    <string name="filter_tasks">משימות</string>
+    <string name="filter_pinned">נעוצים</string>
+    <string name="empty_notes_title">אין פתקים עדיין</string>
+    <string name="empty_notes_desc">לחצו על כפתור הפלוס כדי ליצור פתק או רשימת משימות חדשה</string>
+    <string name="title_hint">כותרת הפתק…</string>
+    <string name="content_hint">כתבו כאן את הפתק שלכם…</string>
+    <string name="add_task_hint">הוסיפו פריט לרשימה…</string>
+    <string name="save">שמור</string>
+    <string name="cancel">ביטול</string>
+    <string name="delete">מחיקה</string>
+    <string name="edit">עריכה</string>
+    <string name="tag_general">כללי</string>
+    <string name="tag_work">עבודה</string>
+    <string name="tag_personal">אישי</string>
+    <string name="tag_torah">תורה ויהדות</string>
+    <string name="tag_shopping">קניות</string>
+    <string name="set_reminder">הגדרת תזכורת</string>
+    <string name="reminder_set_success">התזכורת נשמרה בהצלחה</string>
+    <string name="reminder_title">תזכורת לפתק</string>
+    <string name="clear_reminder">הסר תזכורת</string>
+    <string name="date_label">תאריך:</string>
+    <string name="time_label">שעה:</string>
+    <string name="confirm_delete">האם למחוק פתק זה?</string>
+</resources>

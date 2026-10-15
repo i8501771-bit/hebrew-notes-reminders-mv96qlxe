@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Rounded Background in Warm Hebrew Gold / Slate -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M 0,22 C 0,9.85 9.85,0 22,0 L 74,0 C 86.15,0 96,9.85 96,22 L 96,74 C 96,86.15 86.15,96 74,96 L 22,96 C 9.85,96 0,86.15 0,74 Z" />
+    <!-- Note Page Body -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M 24,18 L 60,18 L 74,32 L 74,76 C 74,79.3 71.3,82 68,82 L 28,82 C 24.7,82 22,79.3 22,76 L 22,24 C 22,20.7 24.7,18 28,18 Z" />
+    <!-- Folded Corner -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M 60,18 L 60,32 L 74,32 Z" />
+    <!-- Note Lines in Hebrew Blue -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M 32,40 L 64,40 A 2,2 0 0,1 64,44 L 32,44 A 2,2 0 0,1 32,40 Z" />
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M 32,50 L 64,50 A 2,2 0 0,1 64,54 L 32,54 A 2,2 0 0,1 32,50 Z" />
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M 44,60 L 64,60 A 2,2 0 0,1 64,64 L 44,64 A 2,2 0 0,1 44,60 Z" />
+    <!-- Checkmark Badge Indicator -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M 34,59 L 38,63 L 42,57 L 40.5,55.5 L 38,60 L 35.5,57.5 Z" />
+    <!-- Star of David / Decorative Stamp Accent in Gold -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M 31,27 L 33,31 L 29,31 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M 31,32 L 33,28 L 29,28 Z" />
+</vector>
